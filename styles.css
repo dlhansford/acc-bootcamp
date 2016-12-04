@@ -1,8 +1,9 @@
-body{
+body {
     background: white;
+    font-family: "Abel";
 }
 
-h1{
+h1 {
     color: white;
     background: blue;
     border-color: purple;
@@ -11,12 +12,12 @@ h1{
     margin-bottom: 200px;
 }
 
-h2{
+h2 {
     color: green;
     font-family: sans-serif;
 }
 
-h6{
+h6 {
     color: red;
     background: yellow;
     border-color: #FF1493;
@@ -28,11 +29,11 @@ h6{
     padding-right: 100px;
 }
 
-b{
+b {
     color: blue;
 }
 
-i{
+i {
     color: darkmagenta;
 }
 
