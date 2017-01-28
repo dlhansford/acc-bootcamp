@@ -1,6 +1,6 @@
 body {
     background: white;
-    font-family: "Abel";
+    font-family: sans-serif;
 }
 
 h1 {
@@ -11,12 +11,11 @@ h1 {
 }
 
 h2 {
-    color: green;
-    font-family: sans-serif;
+    color: blue;
 }
 
 h6 {
-    color: red;
+    color: blue;
     border-width: 4px;
     border-style: dashed;
     padding-top: 100px;
@@ -31,18 +30,4 @@ b {
 
 i {
     color: darkmagenta;
-}
-
-.tacolover {
-    color: green;
-    font-family: sans-serif;
-    font-style: oblique;
-    font-size: 30px;
-}
-
-#tacohater {
-    color: deeppink;
-    font-family: sans-serif;
-    font-style: italic;
-    font-size: 30px;
 }
